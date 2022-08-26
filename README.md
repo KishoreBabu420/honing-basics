@@ -48,7 +48,7 @@ The writer has no idea what topic the random paragraph will be about when it app
    <!-- Links -->
    [GoToGoogle](https://www.google.com)
    <!-- images -->
-   ![Apple Image](https://www.collinsdictionary.com/images/full/apple_158989157.jpg)
+   ![Apple Image](https://github.com/KishoreBabu420/huddle-landing-page/blob/main/design/desktop-design.jpg)
    <!-- code -->
    See `JavaScript`
 
